@@ -73,8 +73,7 @@ Anggota: @username-anggota1
 Anggota: @username-anggota2
 Anggota: @username-anggota3
 
-
-💡 Catatan: Jika kamu adalah anggota PIK-R SYNERGY dan ingin ditambahkan di sini, silahkan hubungi KOMINFO untuk update profil GitHub kamu!
+> 💡 Catatan: Jika kamu adalah anggota PIK-R SYNERGY dan ingin ditambahkan di sini, silahkan hubungi KOMINFO untuk update profil GitHub kamu!
 
 
 
