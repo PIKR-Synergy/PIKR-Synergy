@@ -37,6 +37,7 @@
 
 ## 🏢 Struktur Organisasi
 Organisasi PIK-R SYNERGY terdiri dari **12 anggota** yang terbagi dalam berbagai posisi:
+```
 graph TD
     A[Ketua] --> B[Wakil Ketua]
     A --> C[Bendahara]
@@ -50,7 +51,7 @@ graph TD
     style D fill:#e6cccb,stroke:#333,stroke-width:2px
     style E fill:#e6cccb,stroke:#333,stroke-width:2px
     style F fill:#e6cccb,stroke:#333,stroke-width:2px
-
+```
 | Posisi | Deskripsi |
 |--------|-----------|
 | **Ketua** | Memimpin dan mengkoordinasi seluruh kegiatan organisasi |
