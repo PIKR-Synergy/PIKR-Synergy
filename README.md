@@ -46,12 +46,12 @@ graph TD
     A --> E[KOMINFO]
     A --> F[Konselor]
     
-    style A fill:#c2cfa1,stroke:#333,stroke-width:3px
-    style B fill:#e6cccb,stroke:#333,stroke-width:2px
-    style C fill:#e6cccb,stroke:#333,stroke-width:2px
-    style D fill:#e6cccb,stroke:#333,stroke-width:2px
-    style E fill:#e6cccb,stroke:#333,stroke-width:2px
-    style F fill:#e6cccb,stroke:#333,stroke-width:2px
+    style A fill:#c2cfa1,stroke:#2d3748,stroke-width:3px,color:#000
+    style B fill:#e6cccb,stroke:#2d3748,stroke-width:2px,color:#000
+    style C fill:#e6cccb,stroke:#2d3748,stroke-width:2px,color:#000
+    style D fill:#e6cccb,stroke:#2d3748,stroke-width:2px,color:#000
+    style E fill:#e6cccb,stroke:#2d3748,stroke-width:2px,color:#000
+    style F fill:#e6cccb,stroke:#2d3748,stroke-width:2px,color:#000
 ```
 | Posisi | Deskripsi |
 |--------|-----------|
