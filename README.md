@@ -67,7 +67,7 @@ graph TD
 ## 👥 Tim Kami
 Berikut adalah anggota PIK-R SYNERGY yang aktif di GitHub:
 
-- KOMINFO: @Ivan-Iz
+- KOMINFO: [@Ivan-Iz](https://github.com/Ivan-Iz)
 
 > 💡 Catatan: Jika kamu adalah anggota PIK-R SYNERGY dan ingin ditambahkan di sini, silahkan hubungi KOMINFO untuk update profil GitHub kamu!
 
