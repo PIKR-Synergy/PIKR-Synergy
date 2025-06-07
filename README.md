@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Logo akan ditambahkan di sini -->
-  <!-- <img src="assets/logo-pikr-synergy.png" alt="PIK-R SYNERGY Logo" width="200"> -->
+  <img src="assets/SYNERGY.png" alt="PIK-R SYNERGY Logo" width="200">
   
   <h3>🤝 Bersinergi untuk Masa Depan yang Lebih Baik</h3>
   
