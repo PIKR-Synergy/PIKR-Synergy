@@ -36,8 +36,20 @@
 ---
 
 ## 🏢 Struktur Organisasi
-
 Organisasi PIK-R SYNERGY terdiri dari **12 anggota** yang terbagi dalam berbagai posisi:
+graph TD
+    A[Ketua] --> B[Wakil Ketua]
+    A --> C[Bendahara]
+    A --> D[Sekretaris]
+    A --> E[KOMINFO]
+    A --> F[Konselor]
+    
+    style A fill:#c2cfa1,stroke:#333,stroke-width:3px
+    style B fill:#e6cccb,stroke:#333,stroke-width:2px
+    style C fill:#e6cccb,stroke:#333,stroke-width:2px
+    style D fill:#e6cccb,stroke:#333,stroke-width:2px
+    style E fill:#e6cccb,stroke:#333,stroke-width:2px
+    style F fill:#e6cccb,stroke:#333,stroke-width:2px
 
 | Posisi | Deskripsi |
 |--------|-----------|
@@ -47,6 +59,22 @@ Organisasi PIK-R SYNERGY terdiri dari **12 anggota** yang terbagi dalam berbagai
 | **Sekretaris** | Mengelola administrasi dan dokumentasi organisasi |
 | **KOMINFO** | Mengelola komunikasi dan informasi organisasi |
 | **Konselor** | Memberikan layanan konseling kepada remaja |
+
+---
+
+## 👥 Tim Kami
+Berikut adalah anggota PIK-R SYNERGY yang aktif di GitHub:
+
+Ketua: @username-ketua
+KOMINFO: @username-kominfo
+Anggota: @username-anggota1
+Anggota: @username-anggota2
+Anggota: @username-anggota3
+
+
+💡 Catatan: Jika kamu adalah anggota PIK-R SYNERGY dan ingin ditambahkan di sini, silahkan hubungi KOMINFO untuk update profil GitHub kamu!
+
+
 
 ---
 
